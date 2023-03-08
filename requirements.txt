@@ -1,0 +1,5 @@
+discord
+asyncio
+aiohttp
+discord_webhook
+datetime
