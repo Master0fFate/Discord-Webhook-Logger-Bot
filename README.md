@@ -6,7 +6,7 @@ Catches all messages in joined servers and sends them through a discord webhook 
  1. Install python
  2. Run CMD or PowerShell in the directory you placed downloaded files
  3. Install requirements "pip install -r requirements.txt"
- 4. Edit "webhooklogger.py", input your bot token and webhook URL
+ 4. Run "webhooklogger.py", it will create .env file, which you fill with your bot's credentials.
  5. Run the bot in cmd/powershell by using "py webhooklogger.py" or "python webhooklogger.py" 
 
 That's it, enjoy.
