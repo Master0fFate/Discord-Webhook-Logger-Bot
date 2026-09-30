@@ -1,5 +1,2 @@
-discord
-asyncio
-aiohttp
-discord_webhook
-datetime
+discord.py>=2.6,<3
+aiohttp>=3.12,<4
